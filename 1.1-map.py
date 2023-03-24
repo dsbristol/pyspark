@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 import sys
 for line in sys.stdin:
   if not 'invalid user' in line:
