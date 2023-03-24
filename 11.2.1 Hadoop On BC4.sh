@@ -23,7 +23,7 @@ wget https://archive.apache.org/dist/hadoop/common/hadoop-3.1.2/hadoop-3.1.2.tar
 tar -xzvf hadoop-3.1.2.tar.gz
 
 #############
-## Now we'll un Hadoop Map Reduce.
+## Now we'll run Hadoop Map Reduce.
 ## It will produce a lot of chatter to the screen, as the whole Hadoop backend is fired up.
 
 rm -rf output/conn_log # Remove the output if it is already created
