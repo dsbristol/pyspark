@@ -2,8 +2,9 @@
 
 ## Remember to get this locally onto your BC4 filesystem with:
 ## git clone https://github.com/dsbristol/pyspark.git
+## cd pyspark
 
-## You can get this working locally on your laptop too. This is worth it for pyspart but probably not for hadoop. The only real barrier is getting Hadoop to talk to Java...
+## You can get this working locally on your laptop too. This is worth it for pyspark but probably not for hadoop. The only real barrier is getting Hadoop to talk to Java...
 
 ## Some references and source material:
 
