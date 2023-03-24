@@ -122,7 +122,7 @@ ls /run/user # Virtual file system
 
 $HDIR/bin/hadoop jar \
   $HDIR/share/hadoop/tools/lib/hadoop-streaming-3.1.2.jar \
-  -D mapred.reduce.tasks=10 \     
+  -D mapred.reduce.tasks=10 \
   -mapper 1.2-map_wc.py -reducer 1.2-reduce_wc.py \
   -input hdfs/books/* -output hdfs/books_wc
 
