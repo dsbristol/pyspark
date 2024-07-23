@@ -1,7 +1,7 @@
 # pyspark
 Pyspark and Hadoop repository for learning
 
-This is part of [Block 11](https://dsbristol.github.io/dst/coursebook/11.html) of the [Data Science Toolbox](https://dsbristol.github.io/dst/coursebook.html), where there are detailed discussions about **why** we structure distributed data processing in this way.
+This is part of [Block 11]([https://dsbristol.github.io/dst/cb-cyber/coursebook.html) of the pre-2023 [Data Science Toolbox](https://dsbristol.github.io/dst/cb-cyber/coursebook.html), where there are detailed discussions about **why** we structure distributed data processing in this way. It is an optional block in the [Currently active]([https://dsbristol.github.io/dst/coursebook.html).
 
 This content has the following sections, which work through the provided material:
 
